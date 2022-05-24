@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Gowrishankar98
-- 🌱 I’m currently learning angular
+- 🌱 I’m a UI Developer
 
 <!---
 Gowrishankar98/Gowrishankar98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
